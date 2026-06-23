@@ -1,1 +1,1 @@
-# BepInResource, by skillissue
+# BepInResource, by SkillIssue.one
